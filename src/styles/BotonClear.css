@@ -1,0 +1,19 @@
+
+.btn-danger {
+    height: 80px;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    margin-top: 8px;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn-danger:hover {
+    background-color: rgb(167, 49, 20);
+}

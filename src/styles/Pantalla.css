@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+:root {
+    --font: 'Secular One', sans-serif;
+}
+
+
+.input-group-text{
+    height: 75px;
+    margin-bottom: 15px;
+    align-items: center;
+    font-weight: bold;
+    font-family: var(--font);
+    font-size: 30px;
+    background-color: whitesmoke;
+    color: black;
+    border: solid gray;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #324324;
+}

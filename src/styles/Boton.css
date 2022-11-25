@@ -1,0 +1,36 @@
+.btn-light {
+height: 80px;
+flex: 1 1;
+border-radius: 30px;
+margin: 4px;
+cursor: pointer;
+user-select: none;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+font-size: 40px;
+}
+
+.btn-light:hover {
+background-color: gray;
+}
+
+
+.btn-primary {
+height: 80px;
+flex: 1 1;
+border-radius: 30px;
+margin: 4px;
+cursor: pointer;
+user-select: none;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+font-size: 40px;
+}
+
+.btn-primary:hover{
+    background-color: cyan;
+}
